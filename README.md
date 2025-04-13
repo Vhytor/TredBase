@@ -30,10 +30,13 @@ Automatically seed:
 
 3 students: Student 1 (shared), Student 2 (Parent A only), Student 3 (Parent B only)
 
+Used Dataseeder to populate the database cause of this giving task in wjich i didn't create
+service class for parent and student 
+
 ✅ Test the Application
 Use Postman or any API client to send a POST request:
 
-URL: http://localhost:8080/api/payments
+URL: http://localhost:8081/api/payments
 Authorization: Basic Auth
 
 Username: admin
